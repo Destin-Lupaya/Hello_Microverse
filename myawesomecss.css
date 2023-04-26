@@ -1,0 +1,70 @@
+/* Project Meta */
+
+/* reset  */
+
+/* general */
+
+/* typography */
+
+/* grid */
+
+/* header */
+
+/* footer */
+
+/* Page template A */
+
+/* Page template B */
+
+/* Media Queries */
+
+
+.box {background: #3498db; border: 1px solid black;}
+
+.box {
+    background: #2ecc71;
+    border: 1px solid black;
+    }
+
+
+    #div {
+
+        margin-top: 10px;
+        
+        margin-right: 10px;
+        
+        margin-bottom: 3px;
+        
+        margint-left: 4px;
+        
+        }
+
+
+        
+html,
+
+body {
+
+font-family: 'Lato', sans-serif;
+
+height: 100%;
+
+background: #ecf0f1;
+
+overflow: hidden;
+
+}
+
+h1 {
+
+color: #3498db;
+
+text-align: center;
+
+font-size: 35px;
+
+margin: 100px 0px;
+
+font-weight: 700;
+
+}
