@@ -74,7 +74,7 @@ the repository.
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Ikonde Nekemiah Arnold**
+👤 **Kabote Lupaya Destin**
 
 - GitHub: [@githubhandle](https://github.com/Destin-Lupaya)
 - Twitter: [@twitterhandle](https://twitter.com/@KaboteLupaya)
